@@ -1,0 +1,7 @@
+Mac de mi Vm
+ 
+HWaddr 08:00:27:67:6a:0d
+
+Ip de mi Vm  
+
+inet addr:10.0.2.15
