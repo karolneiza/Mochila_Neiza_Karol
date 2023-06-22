@@ -5,3 +5,7 @@ HWaddr 08:00:27:67:6a:0d
 Ip de mi Vm  
 
 inet addr:10.0.2.15
+
+¿Es diferente la IP pública y privada de nuestra máquina host?
+
+La dirección IP pública es la dirección única asignada a mi red o dispositivo por mi proveedor de internet y se utiliza para indentificarme en internet. La dirección IP privada es la dirección asignada a mi dispositivo de una red local y se utiliza para identificar y comunicarse con otros dispositivos dentro de esa red local.
